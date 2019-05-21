@@ -2,6 +2,9 @@
 title: Ginger Behavioral Health
 timezone: UTC
 collections:
+  journeys:
+    title: Journeys
+    output: true
   posts:
     title: Posts
     output: true
